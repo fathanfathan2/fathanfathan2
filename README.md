@@ -21,9 +21,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fathanfathan2&theme=dracula" height="150" alt="GitHub Streak" />
   <img width="30" />
-  <!-- Link GIF di bawah ini (src="") perlu kamu ganti dengan 'Copy Image Address' dari Tenor -->
   <a href="https://tenor.com/view/jiwoo-njiw-jiu-hearts2hearts-h2h-gif-13708729464923866677" target="_blank">
-    <img src="https://media1.tenor.com/m/o_1jE_eF60wAAAAC/jiwoo-nmixx.gif" height="150" alt="Jiwoo GIF" />
+    <img src="https://media1.tenor.com/m/vj8w0P63xjUAAAAd/jiwoo-njiw.gif" height="150" alt="Jiwoo GIF" />
   </a>
 </div>
 
