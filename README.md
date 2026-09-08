@@ -27,11 +27,12 @@
 <br>
 
 <h2 align="center">About Me</h2>
-- I’m currently working on web applications like **Gopiket** (school picket management) and **Smart Finance**.
-- I’m an 11th-grade student majoring in **Pengembangan Perangkat Lunak dan Gim (PPLG)**.
-- I've explored and completed learning modules on **AWS Cloud Practitioner** and **Computational Thinking**.
-- Currently building projects using **Node.js, React, HTML/CSS, JavaScript, Laravel, and phpMyAdmin**.
-- Fun fact: When I'm not coding or participating in OSIS events, I enjoy playing **Resident Evil** on Steam and keeping up with Formula 1 via **Drive to Survive**!
+
+- 🔭 I’m currently working on web applications like **Gopiket** (school picket management) and **Smart Finance**.
+- 🌱 I’m an 11th-grade student majoring in **Pengembangan Perangkat Lunak dan Gim (PPLG)**.
+- ☁️ I've explored and completed learning modules on **AWS Cloud Practitioner** and **Computational Thinking**.
+- 🛠️ Currently building projects using **Node.js, React, HTML/CSS, JavaScript, Laravel, and phpMyAdmin**.
+- ⚡ Fun fact: Jiwoo big fan, & When I'm not coding or participating in OSIS events, I enjoy playing **Resident Evil and The Last of Us** on Steam and keeping up with Formula 1 via **Drive to Survive**!
 
 <br>
 
