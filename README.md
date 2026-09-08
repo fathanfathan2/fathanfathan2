@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fathan! 👋</h1>
+<h1 align="center">Hi there, I'm Fathan! 🧑‍💻🛜 </h1>
 <h3 align="center">Software & Game Development (PPLG) Student | Front-End Enthusiast</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fathanfathan2&theme=dracula" height="150" alt="GitHub Streak" />
@@ -26,16 +26,16 @@
 
 <br>
 
-## 🚀 About Me
-- 🔭 I’m currently working on web applications like **Gopiket** (school picket management) and **Smart Finance**.
-- 🌱 I’m an 11th-grade student majoring in **Pengembangan Perangkat Lunak dan Gim (PPLG)**.
-- ☁️ I've explored and completed learning modules on **AWS Cloud Practitioner** and **Computational Thinking**.
-- 🛠️ Currently building projects using **Node.js, React, HTML/CSS, JavaScript, Laravel, and phpMyAdmin**.
-- ⚡ Fun fact: When I'm not coding or participating in OSIS events, I enjoy playing **Resident Evil** on Steam and keeping up with Formula 1 via **Drive to Survive**!
+##  About Me
+-  I’m currently working on web applications like **Gopiket** (school picket management) and **Smart Finance**.
+-  I’m an 11th-grade student majoring in **Pengembangan Perangkat Lunak dan Gim (PPLG)**.
+-  I've explored and completed learning modules on **AWS Cloud Practitioner** and **Computational Thinking**.
+-  Currently building projects using **Node.js, React, HTML/CSS, JavaScript, Laravel, and phpMyAdmin**.
+-  Fun fact: When I'm not coding or participating in OSIS events, I enjoy playing **Resident Evil** on Steam and keeping up with Formula 1 via **Drive to Survive**!
 
 <br>
 
-## 💻 Tech Stack
+##  Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img width="12"/>
