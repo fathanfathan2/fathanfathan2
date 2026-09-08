@@ -16,7 +16,7 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fathanfathan2&theme=dracula" height="150" alt="GitHub Streak" />
@@ -26,16 +26,16 @@
 
 <br>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 - I’m currently working on web applications like **Gopiket** (school picket management) and **Smart Finance**.
 - I’m an 11th-grade student majoring in **Pengembangan Perangkat Lunak dan Gim (PPLG)**.
 - I've explored and completed learning modules on **AWS Cloud Practitioner** and **Computational Thinking**.
 - Currently building projects using **Node.js, React, HTML/CSS, JavaScript, Laravel, and phpMyAdmin**.
-- Fun fact: I love Jiwoo!, & When I'm not coding or participating in OSIS events, I enjoy playing **Resident Evil and The Last of Us** on Steam and keeping up with Formula 1 via **Drive to Survive**!
+- Fun fact: When I'm not coding or participating in OSIS events, I enjoy playing **Resident Evil** on Steam and keeping up with Formula 1 via **Drive to Survive**!
 
 <br>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img width="12"/>
