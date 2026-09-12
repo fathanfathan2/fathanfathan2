@@ -22,7 +22,7 @@
   <img src="https://streak-stats.demolab.com?user=fathanfathan2&theme=dracula" height="150" alt="GitHub Streak" />
   <img width="30" />
   <a href="https://tenor.com/view/jiwoo-njiw-jiu-hearts2hearts-h2h-gif-13708729464923866677" target="_blank">
-    <img src="https://media1.tenor.com/m/HB1BzwBGvNQAAAAd/jiwoo-de-basti-uwu-uwu-basti.gif" height="150" alt="Jiwoo GIF" />
+    <img src="[https://media1.tenor.com/m/HB1BzwBGvNQAAAAd/jiwoo-de-basti-uwu-uwu-basti.gif](https://media1.tenor.com/m/HB1BzwBGvNQAAAAd/jiwoo-de-basti-uwu-uwu-basti.gif)" height="150" alt="Jiwoo GIF" />
   </a>
 </div>
 
