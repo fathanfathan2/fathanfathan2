@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fathan! </h1>
+<h1 align="center">Hi there, I'm Fathan❗ </h1>
 <h3 align="center">Software & Game Development (PPLG) Student | Front-End Enthusiast</h3>
 
 <p align="center">
