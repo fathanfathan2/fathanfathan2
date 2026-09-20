@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fathan❗ </h1>
-<h3 align="center">Software & Game Development (PPLG) Student | Front-End Enthusiast</h3>
+<h3 align="center">Software & Game Development | Front-End Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
