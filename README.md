@@ -1,6 +1,6 @@
 <!-- HEADER ANIMASI GELOMBANG BIRU DENGAN TEKS DI DALAMNYA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Hi%20there,%20I'm%20Fathan❗&fontSize=45&fontColor=ffffff&desc=Software%20%26%20Game%20Development%20%7C%20Front-End%20Enthusiast&descSize=20&descAlign=50&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Hi%20there,%20I%27m%20Fathan!&fontSize=45&fontColor=ffffff&desc=Software%20%26%20Game%20Development%20%7C%20Front-End%20Enthusiast&descSize=20&descAlignY=75" width="100%"/>
 </div>
 
 <p align="center">
