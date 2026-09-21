@@ -1,3 +1,8 @@
+<!-- HEADER ANIMASI GELOMBANG BIRU MUDA -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=89f7fe,66a6ff&height=150&section=header" width="100%"/>
+</div>
+
 <h1 align="center">Hi there, I'm Fathan❗ </h1>
 <h3 align="center">Software & Game Development | Front-End Enthusiast</h3>
 
@@ -70,4 +75,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
+</div>
+
+<!-- FOOTER ANIMASI GELOMBANG BIRU MUDA -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=89f7fe,66a6ff&height=150&section=footer" width="100%"/>
 </div>
