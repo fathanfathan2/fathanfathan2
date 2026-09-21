@@ -1,29 +1,29 @@
-<!-- HEADER ANIMASI GELOMBANG BIRU DENGAN TEKS -->
+<!-- HEADER ANIMASI GELOMBANG BIRU (LEBIH KECIL & TANPA DESKRIPSI) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00CFFF,007bff&height=150&section=header&text=Hi%20there,%20I%27m%20Fathan!&fontSize=45&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00a8ff,0072ff&height=150&section=header&text=Hi%20there,%20I%27m%20Fathan!&fontSize=45&fontColor=ffffff&v=2" width="100%"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+build+things+for+the+web;Always+learning+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+build+things+for+the+web;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- LENCANA SOSIAL (SEMUA BIRU) -->
+<!-- LENCANA KEMBALI KE WARNA ASLI -->
 <div align="center">
-  <a href="https://www.instagram.com/h0nestlyftshann_/"><img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:fathanali1809@gmail.com"><img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/h0nestlyftshann_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:fathanali1809@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/fathan-ali-780b69384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/31j7ukb5v6v3zobb6gmn2ftcep2m?si=bad1ca1da6db4e1e"><img src="https://img.shields.io/badge/Spotify-0077B5?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/31j7ukb5v6v3zobb6gmn2ftcep2m?si=bad1ca1da6db4e1e"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </div>
 
 <br>
 
 <h2 align="center">GitHub Stats</h2>
 
-<!-- STATISTIK GITHUB STREAK (SEMUA BIRU) -->
+<!-- GITHUB STREAK KEMBALI KE TEMA DRACULA (ASLI) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fathanfathan2&color=00CFFF&title=00CFFF&currStreakNum=00CFFF&fire=00CFFF" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fathanfathan2&theme=dracula" height="150" alt="GitHub Streak" />
   <img width="30" />
   <a href="https://tenor.com/view/jiwoo-njiw-jiu-hearts2hearts-h2h-gif-13708729464923866677" target="_blank">
     <img src="https://media1.tenor.com/m/ZKofEV-yK18AAAAd/hearts2hearts-jiwoo.gif" height="150" alt="Jiwoo GIF" />
@@ -78,5 +78,5 @@
 
 <!-- FOOTER ANIMASI GELOMBANG BIRU -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00CFFF,007bff&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00a8ff,0072ff&height=150&section=footer&v=2" width="100%"/>
 </div>
