@@ -1,10 +1,7 @@
-<!-- HEADER ANIMASI GELOMBANG BIRU MUDA -->
+<!-- HEADER ANIMASI GELOMBANG BIRU DENGAN TEKS DI DALAMNYA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=89f7fe,66a6ff&height=150&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Hi%20there,%20I'm%20Fathan❗&fontSize=45&fontColor=ffffff&desc=Software%20%26%20Game%20Development%20%7C%20Front-End%20Enthusiast&descSize=20&descAlign=50&descAlignY=75" width="100%"/>
 </div>
-
-<h1 align="center">Hi there, I'm Fathan❗ </h1>
-<h3 align="center">Software & Game Development | Front-End Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -77,7 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
 </div>
 
-<!-- FOOTER ANIMASI GELOMBANG BIRU MUDA -->
+<!-- FOOTER ANIMASI GELOMBANG BIRU -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=89f7fe,66a6ff&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=150&section=footer" width="100%"/>
 </div>
