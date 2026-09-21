@@ -1,6 +1,6 @@
-<!-- HEADER ANIMASI GELOMBANG BIRU DENGAN TEKS DI DALAMNYA -->
+<!-- HEADER ANIMASI GELOMBANG BIRU DENGAN TEKS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Hi%20there,%20I%27m%20Fathan!&fontSize=45&fontColor=ffffff&desc=Software%20%26%20Game%20Development%20%7C%20Front-End%20Enthusiast&descSize=20&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Hi%20there,%20I%20am%20Fathan!&fontSize=45&fontColor=ffffff&desc=Software%20and%20Game%20Development%20|%20Front-End%20Enthusiast&descSize=20&descAlignY=75" width="100%"/>
 </div>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 <br>
 
-<!-- BAGIAN SNAKE ANIMATION DITAMBAHKAN DI SINI -->
+<!-- BAGIAN SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathanfathan2/fathanfathan2/output/github-contribution-grid-snake-dark.svg">
