@@ -43,7 +43,7 @@
 
 <br>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Fathan</h2>
 
 - 🔭 I’m currently working on web applications like **Gopiket** (school picket management) and **Smart Finance**.
 - 🌱 I’m an 11th-grade student majoring in **Pengembangan Perangkat Lunak dan Gim (PPLG)**.
