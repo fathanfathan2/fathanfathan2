@@ -1,6 +1,6 @@
 <!-- HEADER ANIMASI GELOMBANG BIRU (LEBIH KECIL & TANPA DESKRIPSI) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00a8ff,0072ff&height=150&section=header&text=Hi%20there,%20I%27m%20Fathan!!&fontSize=45&fontColor=ffffff&v=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00a8ff,0072ff&height=150&section=header&text=Hi%20there,%20I%27m%20Fathan!&fontSize=45&fontColor=ffffff&v=2" width="100%"/>
 </div>
 
 <p align="center">
